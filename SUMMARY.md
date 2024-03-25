@@ -8,6 +8,18 @@
 * [Illégal](armes-a-feu/illegal.md)
 * [Equipement](armes-a-feu/equipement.md)
 
+## ITEMS ENTREPRISE
+
+* [🛞 Norauto / Depann2000](items-entreprise/norauto-depann2000.md)
+* [💰 Brinks](items-entreprise/brinks.md)
+* [💃 Club 77 / Flamingo](items-entreprise/club-77-flamingo.md)
+* [🐔 KFC](items-entreprise/kfc.md)
+* [🌮 La Brigade Gourmande](items-entreprise/la-brigade-gourmande.md)
+* [🍕 Villa Dondelli](items-entreprise/villa-dondelli.md)
+* [🎱 Indiana](items-entreprise/indiana.md)
+* [🍇 Vigneron](items-entreprise/vigneron.md)
+* [🎰 Casino](items-entreprise/casino.md)
+
 ## Voiture
 
 * [🚒 BSPP](voiture/bspp.md)
@@ -67,3 +79,12 @@
 * [🌲 Bucheron](jobs/bucheron.md)
 * [🎥 TF1](jobs/tf1.md)
 * [🔵 France Travail](jobs/france-travail.md)
+
+## Gang Illégal
+
+* [🌉 Le Bronx](gang-illegal/le-bronx.md)
+* [🌇 Goutte d'or](gang-illegal/goutte-dor.md)
+* [🏙️ Belleville](gang-illegal/belleville.md)
+* [🥷 Mafia](gang-illegal/mafia.md)
+* [⛺ Gitan](gang-illegal/gitan.md)
+* [Page](gang-illegal/page.md)
