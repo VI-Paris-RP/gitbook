@@ -13,6 +13,7 @@
 * [🚒 BSPP](voiture/bspp.md)
 * [🚑 SAMU](voiture/samu.md)
 * [🚔 Police Nationale](voiture/police-nationale.md)
+* [👮 Gendarmerie](voiture/gendarmerie.md)
 
 ## Jobs
 
