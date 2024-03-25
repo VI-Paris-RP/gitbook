@@ -1,5 +1,5 @@
 ---
-description: /setjob [ID] igpn [N° GRADE]
+description: /setjob [ID] justice [N° GRADE]
 ---
 
 # ⚖️ Justice

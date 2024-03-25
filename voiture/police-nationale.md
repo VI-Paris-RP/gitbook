@@ -45,7 +45,7 @@ description: Liste des /car des véhicules de la PN
 
 ***
 
-### <mark style="color:red;">Maritime</mark>
+### <mark style="color:red;">MARITIME</mark>
 
 | Nom Véhicule  | /car          |
 | ------------- | ------------- |

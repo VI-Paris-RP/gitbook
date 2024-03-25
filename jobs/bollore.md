@@ -2,7 +2,7 @@
 description: /setjob [ID] bollore [N° GRADE]
 ---
 
-# 🚚 Bolloré
+# 🚛 Bolloré
 
 | GRADE                          | N° GRADE |
 | ------------------------------ | :------: |
