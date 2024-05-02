@@ -14,7 +14,7 @@
 * [💰 Brinks](items-entreprise/brinks.md)
 * [💃 Club 77 / Flamingo](items-entreprise/club-77-flamingo.md)
 * [🐔 KFC](items-entreprise/kfc.md)
-* [🌮 La Brigade Gourmande](items-entreprise/la-brigade-gourmande.md)
+* [🌮 Le Château d'amour](items-entreprise/le-chateau-damour.md)
 * [🍕 Villa Dondelli](items-entreprise/villa-dondelli.md)
 * [🎱 Indiana](items-entreprise/indiana.md)
 * [🍇 Vigneron](items-entreprise/vigneron.md)
