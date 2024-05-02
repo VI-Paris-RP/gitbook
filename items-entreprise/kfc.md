@@ -4,7 +4,7 @@ description: Liste des giveitem du KFC
 
 # 🐔 KFC
 
-### Nourriture
+### Matières Premières
 
 | Item                   | /giveitem                                   |
 | ---------------------- | ------------------------------------------- |

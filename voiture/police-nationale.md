@@ -167,6 +167,7 @@ description: Liste des /car des véhicules de la PN
 | Titus 2022 TITUS            | /car titusraid       |
 | Camion Transport            | /car camionraid      |
 | Camion escorte              | /car rangerbana      |
+| Ramses (chariot bouclier)   | /car ramesraid       |
 
 ***
 

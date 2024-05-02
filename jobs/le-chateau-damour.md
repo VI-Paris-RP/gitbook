@@ -1,8 +1,8 @@
 ---
-description: /setjob [ID] lbg [N° GRADE]
+description: /setjob [ID] food1 [N° GRADE]
 ---
 
-# 🌮 La Brigade Gourmande
+# 💒 Le Château d'amour
 
 | GRADE           | N° GRADE |
 | --------------- | :------: |

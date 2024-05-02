@@ -1,5 +1,5 @@
 ---
-description: /setjob [ID] mechanic [N° GRADE]
+description: /setjob [ID] mechanic2 [N° GRADE]
 ---
 
 # 🧑‍🔧 Depann2000

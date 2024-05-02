@@ -4,7 +4,7 @@ description: Liste des giveitem de La Brigade Gourmande
 
 # 🌮 La Brigade Gourmande
 
-### Nourriture
+### Matières Premières
 
 | Item                   | /giveitem                                   |
 | ---------------------- | ------------------------------------------- |
