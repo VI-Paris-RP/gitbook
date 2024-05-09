@@ -28,17 +28,23 @@ coverY: 98
 
 ### Brique
 
+Prix : 30 000 € en propre pour 50 briques
+
 <figure><img src="../.gitbook/assets/WEAPON_SNOWBALL.png" alt="" width="134"><figcaption><p>/giveitem [ID] weapon_snowball [NOMBRE]</p></figcaption></figure>
 
 ***
 
 ### Cocktail Molotov
 
+Prix : 200 000 € en propre pour 25 coktails
+
 <figure><img src="../.gitbook/assets/WEAPON_MOLOTOV.png" alt="" width="113"><figcaption><p>/giveitem [ID] weapon_molotov [NOMBRE]</p></figcaption></figure>
 
 ***
 
 ### Mortier
+
+Prix : 45 000 € en propre
 
 <figure><img src="../.gitbook/assets/weapon_firework.png" alt="" width="113"><figcaption><p>/giveitem [ID] weapon_firework [NOMBRE]</p></figcaption></figure>
 
@@ -47,6 +53,8 @@ coverY: 98
 ***
 
 ### BZ Gas
+
+Prix : 500 000 € en propre
 
 <figure><img src="../.gitbook/assets/WEAPON_BZGAS.png" alt=""><figcaption><p>/giveitem [ID] weapon_bzgas [NOMBRE]</p></figcaption></figure>
 
@@ -60,6 +68,8 @@ coverY: 98
 
 ### Pistolet
 
+Prix : 400 000 € en propre
+
 <figure><img src="../.gitbook/assets/WEAPON_PISTOL.png" alt=""><figcaption><p>/giveitem [ID] weapon_pistol [NOMBRE]</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ammo-9.png" alt="" width="69"><figcaption><p>/giveitem [ID] ammo-9 [NOMBRE]</p></figcaption></figure>
@@ -67,6 +77,8 @@ coverY: 98
 ***
 
 ### Calibre 50
+
+Prix : 700 000 € en propre
 
 <figure><img src="../.gitbook/assets/WEAPON_PISTOL50.png" alt=""><figcaption><p>/giveitem [ID] weapon_pistol50 [NOMBRE]</p></figcaption></figure>
 
@@ -76,9 +88,15 @@ coverY: 98
 
 ### Revolver
 
-<figure><img src="../.gitbook/assets/WEAPON_REVOLVER.png" alt=""><figcaption><p>/giveitem [ID] weapon_pistol50 [NOMBRE]</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/WEAPON_REVOLVER.png" alt=""><figcaption><p>/giveitem [ID] weapon_revolver [NOMBRE]</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ammo-44.png" alt="" width="65"><figcaption><p>/giveitem [ID] ammo-44 [NOMBRE]</p></figcaption></figure>
+
+***
 
 ### Micro UZI
+
+Prix : 850 000 € en propre
 
 <figure><img src="../.gitbook/assets/WEAPON_MICROSMG.png" alt=""><figcaption><p>/giveitem [ID] weapon_microsmg [NOMBRE]</p></figcaption></figure>
 
@@ -88,7 +106,19 @@ coverY: 98
 
 ### Machine Pistol
 
+Prix : 750 000 € en propre
+
 <figure><img src="../.gitbook/assets/WEAPON_MACHINEPISTOL.png" alt=""><figcaption><p>/giveitem [ID] weapon_machinepistol [NOMBRE]</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ammo-9.png" alt="" width="69"><figcaption><p>/giveitem [ID] ammo-9 [NOMBRE]</p></figcaption></figure>
+
+***
+
+### MP5
+
+Prix : 1 000 000 € en propre
+
+<figure><img src="../.gitbook/assets/WEAPON_SMG_MK2.png" alt=""><figcaption><p>/giveitem [ID] weapon_smg_mk2l [NOMBRE]</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ammo-9.png" alt="" width="69"><figcaption><p>/giveitem [ID] ammo-9 [NOMBRE]</p></figcaption></figure>
 
@@ -123,6 +153,16 @@ Prix : 1 100 000 € en propre
 Prix : 1 300 000 € en propre
 
 <figure><img src="../.gitbook/assets/WEAPON_SAWNOFFSHOTGUN.png" alt=""><figcaption><p>/giveitem [ID] weapon_sawnoffshotgun [NOMBRE]</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ammo-shotgun.png" alt="" width="56"><figcaption><p>/giveitem [ID] ammo-shotgun [NOMBRE]</p></figcaption></figure>
+
+***
+
+### Benelli M4
+
+Prix : 1 500 000 € en propre
+
+<figure><img src="../.gitbook/assets/WEAPON_PUMPSHOTGUN (1).png" alt=""><figcaption><p>/giveitem [ID] weapon_pumpshotgun [NOMBRE]</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ammo-shotgun.png" alt="" width="56"><figcaption><p>/giveitem [ID] ammo-shotgun [NOMBRE]</p></figcaption></figure>
 
