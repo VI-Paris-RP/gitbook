@@ -12,6 +12,8 @@ description: /setjob [ID] justice [N° GRADE]
 | Avocat du Barreau de Paris |     3    |
 | Batonnier Avocat           |     4    |
 | Greffier                   |     5    |
-| Procureur                  |     6    |
-| Juge                       |     7    |
-| Président du Tribunal      |     8    |
+| Huissier                   |     6    |
+| Procureur                  |     7    |
+| Juge                       |     8    |
+| Vice Président du Tribunal |     9    |
+| Président du Tribunal      |    10    |
