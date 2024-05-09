@@ -12,6 +12,14 @@ description: Liste des gives et setjob du serveur VI PARIS RP
 
 ***
 
+### Jobs
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+***
+
 ### Items Entreprise
 
 {% content-ref url="broken-reference" %}
@@ -21,14 +29,6 @@ description: Liste des gives et setjob du serveur VI PARIS RP
 ***
 
 ### Voiture
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-***
-
-### Jobs
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
