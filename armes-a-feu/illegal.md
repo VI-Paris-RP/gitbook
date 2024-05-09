@@ -104,7 +104,7 @@ Prix : 850 000 € en propre
 
 ***
 
-### Machine Pistol
+### Machine Pistol (TEC 9)
 
 Prix : 750 000 € en propre
 
