@@ -6,6 +6,8 @@ coverY: 98
 
 # Illégal
 
+## Vente Libre
+
 ### Couteau
 
 <figure><img src="../.gitbook/assets/WEAPON_SWITCHBLADE.png" alt=""><figcaption><p>/giveitem [ID] weapon_switchblade [NOMBRE]</p></figcaption></figure>
@@ -56,7 +58,7 @@ coverY: 98
 
 ***
 
-## Pistolet
+### Pistolet
 
 <figure><img src="../.gitbook/assets/WEAPON_PISTOL.png" alt=""><figcaption><p>/giveitem [ID] weapon_pistol [NOMBRE]</p></figcaption></figure>
 
@@ -71,6 +73,10 @@ coverY: 98
 <figure><img src="../.gitbook/assets/ammo-50.png" alt="" width="56"><figcaption><p>/giveitem [ID] ammo-50 [NOMBRE]</p></figcaption></figure>
 
 ***
+
+### Revolver
+
+<figure><img src="../.gitbook/assets/WEAPON_REVOLVER.png" alt=""><figcaption><p>/giveitem [ID] weapon_pistol50 [NOMBRE]</p></figcaption></figure>
 
 ### Micro UZI
 
@@ -96,15 +102,15 @@ coverY: 98
 
 ***
 
-### Fusil à pompe
-
-<figure><img src="../.gitbook/assets/WEAPON_SAWNOFFSHOTGUN.png" alt=""><figcaption><p>/giveitem [ID] weapon_sawnoffshotgun [NOMBRE]</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/ammo-shotgun.png" alt="" width="56"><figcaption><p>/giveitem [ID] ammo-shotgun [NOMBRE]</p></figcaption></figure>
+***
 
 ***
 
+## Réservé Organisation
+
 ### Canon scié
+
+Prix : 1 100 000 € en propre
 
 <figure><img src="../.gitbook/assets/WEAPON_DBSHOTGUN.png" alt="" width="128"><figcaption><p>/giveitem [ID] weapon_dbshotgun [NOMBRE]</p></figcaption></figure>
 
@@ -112,7 +118,19 @@ coverY: 98
 
 ***
 
+### Fusil à pompe
+
+Prix : 1 300 000 € en propre
+
+<figure><img src="../.gitbook/assets/WEAPON_SAWNOFFSHOTGUN.png" alt=""><figcaption><p>/giveitem [ID] weapon_sawnoffshotgun [NOMBRE]</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ammo-shotgun.png" alt="" width="56"><figcaption><p>/giveitem [ID] ammo-shotgun [NOMBRE]</p></figcaption></figure>
+
+***
+
 ### AK 47
+
+Prix : 2 100 000 € en propre
 
 <figure><img src="../.gitbook/assets/WEAPON_ASSAULTRIFLE.png" alt=""><figcaption><p>/giveitem [ID] weapon_assaultrifle [NOMBRE]</p></figcaption></figure>
 
@@ -122,8 +140,8 @@ coverY: 98
 
 ### AK 47 Compact
 
+Prix : 1 850 000 €
+
 <figure><img src="../.gitbook/assets/WEAPON_COMPACTRIFLE.png" alt=""><figcaption><p>/giveitem [ID] weapon_compactrifle [NOMBRE]</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ammo-rifle2.png" alt="" width="56"><figcaption><p>/giveitem [ID] ammo-rifle2 [NOMBRE]</p></figcaption></figure>
-
-***
