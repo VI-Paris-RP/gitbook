@@ -99,4 +99,5 @@
 * [🌯 Cartel](gang-illegal/cartel.md)
 * [🖐️ La Main Blanche](gang-illegal/la-main-blanche.md)
 * [🏭 Athena](gang-illegal/athena.md)
-* [⚔️ Quartier Nord](gang-illegal/quartier-nord.md)
+* [⚔️ Zup d'Argenteuil](gang-illegal/zup-dargenteuil.md)
+* [🇲🇽 MLZ](gang-illegal/mlz.md)
