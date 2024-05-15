@@ -4,6 +4,8 @@ description: /setjob [ID] gendarme [N° GRADE]
 
 # 👮 Gendarmerie
 
+Annonce : /gend
+
 | GARDE                   | N° GARDE |
 | ----------------------- | :------: |
 | GAV                     |     0    |

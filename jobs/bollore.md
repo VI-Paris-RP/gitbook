@@ -4,6 +4,8 @@ description: /setjob [ID] bollore [N° GRADE]
 
 # 🚛 Bolloré
 
+Annonce : /bolo
+
 | GRADE                          | N° GRADE |
 | ------------------------------ | :------: |
 | Chauffeur                      |     0    |

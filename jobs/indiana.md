@@ -4,6 +4,8 @@ description: /setjob [ID] indiana [N° GRADE]
 
 # 🎱 Indiana
 
+Annonce : /indi
+
 | GARDE             | N° GARDE |
 | ----------------- | :------: |
 | Agent de Sécurité |     0    |

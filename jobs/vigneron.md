@@ -4,6 +4,8 @@ description: /setjob [ID] vigneron [N° GRADE]
 
 # 🍇 Vigneron
 
+Annonce : /vign
+
 | GRADE        | N° GRADE |
 | ------------ | :------: |
 | Intérimaire  |     0    |

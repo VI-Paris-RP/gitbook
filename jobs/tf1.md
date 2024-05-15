@@ -4,6 +4,8 @@ description: /setjob [ID] journaliste [N° GRADE]
 
 # 🎥 TF1
 
+Annonce : /info
+
 | GRADE             | N° GRADE |
 | ----------------- | :------: |
 | Caméraman         |     0    |

@@ -4,6 +4,8 @@ description: /setjob [ID] dondelli [N° GRADE]
 
 # 🍕 Villa Dondelli
 
+Annonce : /clpg
+
 | GARDE             | N° GARDE |
 | ----------------- | :------: |
 | Serveur           |     0    |

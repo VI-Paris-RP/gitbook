@@ -10,3 +10,5 @@ description: /setjob [ID] realestate [N° GRADE]
 | Décorateur d'Intérieur |     1    |
 | Co - PDG               |     2    |
 | PDG                    |     3    |
+
+Annonce : /immo

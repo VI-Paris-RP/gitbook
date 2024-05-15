@@ -2,7 +2,9 @@
 description: /setjob [ID] securite [N° GRADE]
 ---
 
-# 🔫 Sécurité Privée
+# 🔫 Groupe de Sécurité Privée (GSP)
+
+Annonce : /secu
 
 | GRADE             | N° GRADE |
 | ----------------- | :------: |

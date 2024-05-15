@@ -4,6 +4,8 @@ description: /setjob [ID] mechanic [N° GRADE]
 
 # 🛞 Norauto
 
+Annonce : /meca
+
 | GRADE               | N° GRADE |
 | ------------------- | :------: |
 | Intérimaire         |     0    |

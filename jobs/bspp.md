@@ -4,6 +4,8 @@ description: /setjob [ID] bspp [N° GRADE]
 
 # 🚒 BSPP
 
+Annonce : /spsp
+
 | GRADE                | N° GRADE  |
 | -------------------- | :-------: |
 | Sapeur 2ème classe   |     0     |

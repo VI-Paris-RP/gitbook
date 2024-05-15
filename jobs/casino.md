@@ -4,6 +4,8 @@ description: /setjob [ID] casino [N° GRADE]
 
 # 🎰 Casino
 
+Annonce : /cani
+
 | GRADE                    | N° GRADE |
 | ------------------------ | :------: |
 | Agent de Sécurité        |     0    |

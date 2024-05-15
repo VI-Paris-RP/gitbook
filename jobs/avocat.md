@@ -4,6 +4,8 @@ description: /setjob [ID] avocat [N° GRADE]
 
 # ⚖️ Avocat
 
+Annonce : /avoc
+
 | GRADE             | N° GRADE |
 | ----------------- | :------: |
 | Avocat            |     0    |

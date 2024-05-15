@@ -4,6 +4,8 @@ description: /setjob [ID] kebab [GRADE]
 
 # 🥙 Grill Marmaris (Kebab)
 
+Annonce : /keba
+
 | GRADE       | N° GRADE |
 | ----------- | :------: |
 | Stagiaire   |     0    |

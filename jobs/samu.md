@@ -4,6 +4,8 @@ description: /setjob [ID] ambulance [N° GRADE]
 
 # 🚑 SAMU
 
+Annonce : /samu
+
 | GRADE               | N° GRADE |
 | ------------------- | :------: |
 | Ambulancier         |     0    |

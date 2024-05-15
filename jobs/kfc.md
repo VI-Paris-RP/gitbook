@@ -4,6 +4,8 @@ description: /setjob [ID] kfc [N° GRADE]
 
 # 🐔 KFC
 
+Annonce : /kfc
+
 | GRADE                | N° GRADE |
 | -------------------- | :------: |
 | Intérimaire          |     0    |

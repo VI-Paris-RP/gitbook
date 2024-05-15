@@ -4,6 +4,8 @@ description: /setjob [ID] justice [N° GRADE]
 
 # ⚖️ Justice
 
+Annonce : /just
+
 | GRADE                      | N° GRADE |
 | -------------------------- | :------: |
 | Agent de Sécurité          |     0    |

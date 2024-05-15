@@ -2,7 +2,9 @@
 description: /setjob [ID] gardien [N° GRADE]
 ---
 
-# 🚓 Police Municipal
+# 🚓 Police Municipale
+
+Annonce : /polm
 
 | GARDE                       | N° GARDE |
 | --------------------------- | :------: |

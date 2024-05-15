@@ -4,6 +4,8 @@ description: /setjob [ID] rmauto [N° GRADE]
 
 # 🚘 RM Auto
 
+Annonce : /rmau
+
 | GRADE       | N° GRADE |
 | ----------- | :------: |
 | Stagiaire   |     0    |

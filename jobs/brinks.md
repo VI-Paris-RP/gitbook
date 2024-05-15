@@ -4,6 +4,8 @@ description: /setjob [ID] brinks [N° GRADE]
 
 # 💰 Brinks
 
+Annonce : /brin
+
 | GRADE         | N° GRADE |
 | ------------- | :------: |
 | Recrue        |     0    |

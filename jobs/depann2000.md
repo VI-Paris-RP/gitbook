@@ -4,6 +4,8 @@ description: /setjob [ID] mechanic2 [N° GRADE]
 
 # 🧑‍🔧 Depann2000
 
+Annonce : /depa
+
 | GRADE         | N° GRADE |
 | ------------- | :------: |
 | Recrue        |     0    |

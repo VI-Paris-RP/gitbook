@@ -4,6 +4,8 @@ description: /setjob [ID] food1 [N° GRADE]
 
 # 💒 Le Château d'amour
 
+Annonce : /food
+
 | GRADE                   | N° GRADE |
 | ----------------------- | :------: |
 | Maître d'accueil        |     0    |

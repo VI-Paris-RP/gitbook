@@ -4,6 +4,8 @@ description: /setjob [ID] igpn [N° GRADE]
 
 # 🚨 IGPN / IGGN
 
+Annonce : /igpn
+
 | GARDE                    | N° GARDE |
 | ------------------------ | :------: |
 | Contrôleur               |     0    |

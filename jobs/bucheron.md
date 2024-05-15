@@ -4,6 +4,8 @@ description: /setjob [ID] bucheron [N° GRADE]
 
 # 🌲 Bucheron
 
+Annonce : /buch
+
 | GARDE          | N° GARDE |
 | -------------- | :------: |
 | Intérimaire    |     0    |

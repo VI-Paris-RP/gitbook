@@ -4,6 +4,8 @@ description: /setjob [ID] gouv [N° GRADE]
 
 # 🏛️ Gouvernement
 
+Annonce : /pref
+
 | GARDE                     | N° GARDE |
 | ------------------------- | :------: |
 | Agent Préfectoral         |     0    |

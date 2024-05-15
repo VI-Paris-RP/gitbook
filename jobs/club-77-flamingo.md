@@ -4,6 +4,8 @@ description: /setjob [ID] nightclub [N° GRADE]
 
 # 💃 Club 77 / Flamingo
 
+Annonce : /fete
+
 | GRADE             | N° GRADE |
 | ----------------- | :------: |
 | Agent de Sécurité |     0    |

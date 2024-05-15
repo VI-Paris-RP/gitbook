@@ -4,6 +4,8 @@ description: /setjob [ID] police [N° GRADE]
 
 # 🚔 Police Nationale
 
+Annonce : /poln
+
 | GARDE                         | N° GARDE |
 | ----------------------------- | :------: |
 | Gardien de la paix stagiaire  |     0    |
