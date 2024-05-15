@@ -28,6 +28,7 @@
 * [💰 Brinks](jobs/brinks.md)
 * [🚗 Paris Auto](jobs/paris-auto.md)
 * [🏍️ Paris Moto](jobs/paris-moto.md)
+* [🚘 RM Auto](jobs/rm-auto.md)
 * [🛞 Norauto](jobs/norauto.md)
 * [🧑‍🔧 Depann2000](jobs/depann2000.md)
 * [💃 Club 77 / Flamingo](jobs/club-77-flamingo.md)
