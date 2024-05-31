@@ -4,8 +4,6 @@ description: /setjob [ID] leclercprestige [N° GRADE]
 
 # 🌿 Leclerc Prestige
 
-Annonce : /fete
-
 | GRADE                       | N° GRADE |
 | --------------------------- | :------: |
 | Organisateur d'évènements   |     0    |
