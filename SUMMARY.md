@@ -32,6 +32,7 @@
 * [🛞 Norauto](jobs/norauto.md)
 * [🧑‍🔧 Depann2000](jobs/depann2000.md)
 * [💃 Club 77 / Flamingo](jobs/club-77-flamingo.md)
+* [🌿 Leclerc Prestige](jobs/leclerc-prestige.md)
 * [🐔 KFC](jobs/kfc.md)
 * [🥙 Grill Marmaris (Kebab)](jobs/grill-marmaris-kebab.md)
 * [💒 Le Château d'amour](jobs/le-chateau-damour.md)
