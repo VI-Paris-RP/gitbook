@@ -6,9 +6,9 @@ description: /setjob [ID] avocat [N° GRADE]
 
 Annonce : /avoc
 
-| GRADE             | N° GRADE |
-| ----------------- | :------: |
-| Avocat            |     0    |
-| Avocat Spécialisé |     1    |
-| Co-PDG            |     2    |
-| Patron            |     3    |
+| GRADE              | N° GRADE |
+| ------------------ | :------: |
+| Secrétaire         |     0    |
+| Avocat             |     1    |
+| Avocat Responsable |     2    |
+| Bâtonnier          |     3    |
