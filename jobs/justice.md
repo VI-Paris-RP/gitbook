@@ -8,14 +8,14 @@ Annonce : /just
 
 | GRADE                      | N° GRADE |
 | -------------------------- | :------: |
-| Agent de Sécurité          |     0    |
-| Directeur Sécurité         |     1    |
-| Ressources Humaine         |     2    |
-| Avocat du Barreau de Paris |     3    |
-| Batonnier Avocat           |     4    |
+| Substitut                  |     0    |
+| Subsitut Général           |     1    |
+| Procureur Général          |     2    |
+| Ressources Humaines        |     3    |
+| Greffier                   |     4    |
 | Greffier                   |     5    |
 | Huissier                   |     6    |
-| Procureur                  |     7    |
-| Juge                       |     8    |
-| Vice Président du Tribunal |     9    |
+| Huissier                   |     7    |
+| Juge d'Instruction         |     8    |
+| Vice-Président du tribunal |     9    |
 | Président du Tribunal      |    10    |
