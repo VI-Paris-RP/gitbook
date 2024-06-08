@@ -66,7 +66,7 @@ Prix : 500 000 € en propre
 
 ***
 
-### Pistolet
+### Pistolet (Glock)
 
 Prix : 400 000 € en propre
 
