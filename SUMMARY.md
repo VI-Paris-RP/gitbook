@@ -93,7 +93,7 @@
 
 ## Gang Illégal
 
-* [🌉 La Sablière](gang-illegal/la-sabliere.md)
+* [🌉 Montaigu](gang-illegal/montaigu.md)
 * [🌇 Goutte d'or](gang-illegal/goutte-dor.md)
 * [🏙️ Belleville](gang-illegal/belleville.md)
 * [🥷 Mafia](gang-illegal/mafia.md)
