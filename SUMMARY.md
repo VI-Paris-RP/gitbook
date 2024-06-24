@@ -93,7 +93,7 @@
 
 ## Gang Illégal
 
-* [🌉 Montaigu](gang-illegal/montaigu.md)
+* [🌉 Sarcelles](gang-illegal/sarcelles.md)
 * [🌇 Goutte d'or](gang-illegal/goutte-dor.md)
 * [🏙️ Belleville](gang-illegal/belleville.md)
 * [🥷 Mafia](gang-illegal/mafia.md)
@@ -104,4 +104,4 @@
 * [🖐️ La Main Blanche](gang-illegal/la-main-blanche.md)
 * [🏭 Athena](gang-illegal/athena.md)
 * [⚔️ Zup d'Argenteuil](gang-illegal/zup-dargenteuil.md)
-* [🇲🇽 MLZ](gang-illegal/mlz.md)
+* [🐍 Python](gang-illegal/python.md)
