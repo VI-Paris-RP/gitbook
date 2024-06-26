@@ -46,6 +46,7 @@
 * [🌲 Bucheron](jobs/bucheron.md)
 * [🎥 TF1](jobs/tf1.md)
 * [🎼 Jackson Musique](jobs/jackson-musique.md)
+* [🎳 Bowling](jobs/bowling.md)
 * [🔵 France Travail](jobs/france-travail.md)
 
 ## ITEMS ENTREPRISE
