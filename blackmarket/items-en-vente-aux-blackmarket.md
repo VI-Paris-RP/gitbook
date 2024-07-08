@@ -81,6 +81,14 @@ Prix : 2 500 € en sale
 
 ***
 
+### Fusée éclairante
+
+Prix : 2 500 € en sale
+
+<figure><img src="../.gitbook/assets/WEAPON_FLARE.png" alt=""><figcaption><p>/giveitem [ID] weapon_flare [NOMBRE}</p></figcaption></figure>
+
+***
+
 ### LockPick
 
 Prix : 50 000 € en sale
@@ -126,3 +134,43 @@ Prix : 30 000 € en sale
 Prix : 25 000 € en sale
 
 <figure><img src="../.gitbook/assets/drill.png" alt="" width="100"><figcaption><p>/giveitem [ID] drill [NOMBRE]</p></figcaption></figure>
+
+***
+
+### Clé USB Hack station pétrolière
+
+Prix : 500 € en sale
+
+<figure><img src="../.gitbook/assets/hack_usb.png" alt="" width="113"><figcaption><p>/giveitem [ID] hack_usb [NOMBRE]</p></figcaption></figure>
+
+***
+
+### Corde pour ATM
+
+Prix : 500 € en sale
+
+<figure><img src="../.gitbook/assets/rope.png" alt="" width="188"><figcaption><p>/giveitem [ID] rope [NOMBRE]</p></figcaption></figure>
+
+***
+
+### Testostérone
+
+Prix : 16 500 € en sale
+
+<figure><img src="../.gitbook/assets/testosterone.png" alt="" width="113"><figcaption><p>/giveitem [ID] testosterone [NOMBRE]</p></figcaption></figure>
+
+***
+
+### Combinaison de plongée
+
+Prix : 5 000 € en sale
+
+<figure><img src="../.gitbook/assets/wetsuit.png" alt="" width="180"><figcaption><p>/giveitem [ID] wetsuit [NOMBRE]</p></figcaption></figure>
+
+***
+
+### Gillet par balles
+
+Prix : 200 000 € en sale
+
+<figure><img src="../.gitbook/assets/armour.png" alt="" width="100"><figcaption><p>/giveitem [ID] armour [NOMBRE}</p></figcaption></figure>
