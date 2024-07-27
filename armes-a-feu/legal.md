@@ -33,7 +33,7 @@ coverY: 187
 
 <figure><img src="../.gitbook/assets/WEAPON_SPECIALCARBINE.png" alt=""><figcaption><p>/giveitem [ID] weapon_specialcarbine [NOMBRE]</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/ammo-rifle.png" alt="" width="125"><figcaption><p>/giveitem [ID] ammo-riffle [NOMBRE]</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ammo-rifle.png" alt="" width="125"><figcaption><p>/giveitem [ID] ammo-rifle [NOMBRE]</p></figcaption></figure>
 
 ***
 
@@ -41,7 +41,7 @@ coverY: 187
 
 <figure><img src="../.gitbook/assets/WEAPON_BULLPUPRIFLE.png" alt="" width="113"><figcaption><p>(/giveitem [ID] weapon_bullpuprifle [NOMBRE]</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/ammo-rifle.png" alt="" width="125"><figcaption><p>/giveitem [ID] ammo-riffle [NOMBRE]</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ammo-rifle.png" alt="" width="125"><figcaption><p>/giveitem [ID] ammo-rifle [NOMBRE]</p></figcaption></figure>
 
 ***
 
@@ -49,7 +49,7 @@ coverY: 187
 
 <figure><img src="../.gitbook/assets/WEAPON_CARBINERIFLE.png" alt=""><figcaption><p>/giveitem [ID] weapon_carbinerifle [NOMBRE]</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/ammo-rifle.png" alt="" width="125"><figcaption><p>/giveitem [ID] ammo-riffle [NOMBRE]</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ammo-rifle.png" alt="" width="125"><figcaption><p>/giveitem [ID] ammo-rifle [NOMBRE]</p></figcaption></figure>
 
 ***
 
