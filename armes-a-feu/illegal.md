@@ -82,7 +82,7 @@ Prix : 700 000 € en propre
 
 <figure><img src="../.gitbook/assets/WEAPON_PISTOL50.png" alt=""><figcaption><p>/giveitem [ID] weapon_pistol50 [NOMBRE]</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/ammo-50.png" alt="" width="56"><figcaption><p>/giveitem [ID] ammo-rifle [NOMBRE]</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ammo-50.png" alt="" width="56"><figcaption><p>/giveitem [ID] ammo-50 [NOMBRE]</p></figcaption></figure>
 
 ***
 
