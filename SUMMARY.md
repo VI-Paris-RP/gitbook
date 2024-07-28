@@ -100,7 +100,7 @@
 * [🥷 Mafia](gang-illegal/mafia.md)
 * [⛺ Gitan](gang-illegal/gitan.md)
 * [🌃 Les Tarterets](gang-illegal/les-tarterets.md)
-* [⛩️ La Triade](gang-illegal/la-triade.md)
+* [⛩️ Gomorra](gang-illegal/gomorra.md)
 * [🌯 Cartel](gang-illegal/cartel.md)
 * [🖐️ La Main Blanche](gang-illegal/la-main-blanche.md)
 * [🏭 Athena](gang-illegal/athena.md)
