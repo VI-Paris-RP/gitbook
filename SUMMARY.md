@@ -119,7 +119,7 @@
 * [Organisations](gang-illegal/organisations/README.md)
   * [🥷 Mafia](gang-illegal/organisations/mafia.md)
   * [⛺ Gitan](gang-illegal/organisations/gitan.md)
-  * [⛩️ Gomorra](gang-illegal/organisations/gomorra.md)
+  * [⛩️ Parrain Corse](gang-illegal/organisations/parrain-corse.md)
   * [🌯 La Bratva](gang-illegal/organisations/la-bratva.md)
   * [🖐️ La Main Blanche](gang-illegal/organisations/la-main-blanche.md)
   * [👻 Les Ombres](gang-illegal/organisations/les-ombres.md)
