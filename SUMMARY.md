@@ -38,7 +38,7 @@
   * [🐔 KFC](jobs/restauration/kfc.md)
   * [🥙 Grill Marmaris (Kebab)](jobs/restauration/grill-marmaris-kebab.md)
   * [💒 Le Château d'amour](jobs/restauration/le-chateau-damour.md)
-  * [🍕 Villa Dondelli](jobs/restauration/villa-dondelli.md)
+  * [🍕 Dolce Vita](jobs/restauration/dolce-vita.md)
   * [🍇 Vigneron](jobs/restauration/vigneron.md)
 * [Loisirs](jobs/loisirs/README.md)
   * [💃 Club 77 / Flamingo](jobs/loisirs/club-77-flamingo.md)
