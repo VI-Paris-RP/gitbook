@@ -6,12 +6,12 @@ description: /setjob [ID] mechanic [N° GRADE]
 
 Annonce : /meca
 
-| GRADE               | N° GRADE |
-| ------------------- | :------: |
-| Intérimaire         |     0    |
-| Recrue Mécanicien   |     1    |
-| Mécanien Confirmé   |     2    |
-| Responsable Garage  |     3    |
-| Directeur Mécanique |     4    |
-| Co - PDG            |     5    |
-| PDG                 |     6    |
+| GRADE          | N° GRADE |
+| -------------- | :------: |
+| Apprenti       |     0    |
+| Mécanicien     |     1    |
+| Technicien     |     2    |
+| Chef d'Atelier |     3    |
+| Responsable    |     4    |
+| Co - PDG       |     5    |
+| PDG            |     6    |
